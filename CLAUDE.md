@@ -34,7 +34,7 @@ deste repo.
 
 - **Código que vai para a V8 passa por Pull Request, sempre, sem exceção.** Nada de commit ou
   push direto na `main` nem em branch de repo em `C:\Github\v8capital` sem Pull Request. Todo
-  Pull Request tem como revisores Alexandre Lanutti (`alexandrelanutti-v8`) e Marcio Machado;
+  Pull Request tem como revisores Alexandre Lanutti (`alexandrelanutti-v8`) e Marcio Machado (`marciomachado-v8`);
   nunca sem os dois. Isso vale mesmo quando o `git.md` do padrão diz para trabalhar na branch
   em que a pessoa está.
 - Levar algo daqui para um repo da V8 é copiar para o repo de destino, numa branch, e abrir o
