@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git log*)",
+      "Bash(git diff*)",
+      "Bash(git status*)",
+      "Bash(git branch*)",
+      "Bash(git remote*)",
+      "Bash(find*)",
+      "Bash(ls*)",
+      "Bash(cat*)",
+      "Bash(Get-ChildItem*)",
+      "Bash(python --version)",
+      "Bash(pip list*)",
+      "Bash(pip show*)"
+    ],
+    "deny": [
+      "Write(.env)",
+      "Write(Git_Token.txt)"
+    ]
+  }
+}

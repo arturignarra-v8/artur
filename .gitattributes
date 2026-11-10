@@ -1,0 +1,2 @@
+*.ipynb filter=nbstripout diff=ipynb
+*.IPYNB filter=nbstripout diff=ipynb
